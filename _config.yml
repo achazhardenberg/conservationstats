@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Conservation Stats
+email: a.vonhardenberg@chester.ac.uk
+url: http://www.conservationstats.co.uk
+description: "Statistical modelling for conservation"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Research - Short courses - Consultancies"
+meta_author: von Hardenberg Achaz
 
 # Google webmaster tools
 google_verify:
@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
-  social: Around the Web
+  social: arounf the web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
